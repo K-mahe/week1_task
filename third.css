@@ -1,0 +1,10 @@
+body{
+    background-image: url("./image4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+    background-color:rgba(125, 158, 155, 0.553);
+}
